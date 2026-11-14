@@ -1,5 +1,4 @@
 # SCD-Type-2-Data-Engineering-project
-# SCD Type 2 Data Engineering Pipeline
 
 **A Python and SQL Server-based Data Engineering Project**
 
